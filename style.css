@@ -87,13 +87,13 @@ body{
 
 @media only screen and (max-width: 600px){
     .card{
-        width: 80%;
+        width: 100%;
         height: auto;
         margin: 0px;
         padding: 0px;
     }
     .search{
-        width: fit-content;
+        width: 70%;
     }
     .search button img{
         width: 30px;
