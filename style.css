@@ -95,6 +95,9 @@ body{
     .search{
         width: 70%;
     }
+    .search button{
+        width: 70%;
+    }
     .search button img{
         width: 30px;
 
